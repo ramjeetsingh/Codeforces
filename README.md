@@ -42,7 +42,7 @@
 
 363B - https://codeforces.com/contest/363/problem/B
 
-1547B (Round731 Div2) - https://codeforces.com/contest/1547/problem/B
+1547B (Round731 Div3) - https://codeforces.com/contest/1547/problem/B
 
 
 
