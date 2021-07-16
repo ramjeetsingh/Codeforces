@@ -26,9 +26,12 @@ B:
 
 
 
-C:
+**C:**
+
 1335C - https://codeforces.com/contest/1335/problem/C
+
 1360C - https://codeforces.com/contest/1360/problem/C
+
 630C - https://codeforces.com/contest/630/problem/C
 
 
