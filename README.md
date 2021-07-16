@@ -14,7 +14,7 @@
 
 84A - https://codeforces.com/contest/84/problem/A
 
-1542A - https://codeforces.com/contest/1542/problem/A
+1542A (Round729 Div2) - https://codeforces.com/contest/1542/problem/A
 
 1327A - https://codeforces.com/contest/1327/problem/A
 
