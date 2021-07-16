@@ -2,6 +2,7 @@
 
 A:
 4A - https://codeforces.com/contest/4/problem/A
+
 1527A - https://codeforces.com/contest/1527/problem/A
 1541A - https://codeforces.com/contest/1541/problem/A
 1175A - https://codeforces.com/contest/1175/problem/A
