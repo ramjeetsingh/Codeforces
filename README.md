@@ -18,7 +18,7 @@
 
 1327A - https://codeforces.com/contest/1327/problem/A
 
-1547A - https://codeforces.com/contest/1547/problem/A
+1547A (Round731 Div3) - https://codeforces.com/contest/1547/problem/A
 
 570A - https://codeforces.com/contest/570/problem/A
 
