@@ -22,7 +22,7 @@
 
 570A - https://codeforces.com/contest/570/problem/A
 
-1550A - https://codeforces.com/contest/1550/problem/A
+1550A (EduRound111) - https://codeforces.com/contest/1550/problem/A
 
 
 
