@@ -1,4 +1,4 @@
-  t = int(input())
+t = int(input())
 for _ in range(0,t):
 	n,k = map(int,input().split(" "))
 	ans = n%k
