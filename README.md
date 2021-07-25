@@ -24,6 +24,8 @@
 
 1550A (EduRound111) - https://codeforces.com/contest/1550/problem/A
 
+1551A - https://codeforces.com/contest/1551/problem/A
+
 
 
 
