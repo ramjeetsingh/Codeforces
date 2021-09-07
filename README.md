@@ -26,6 +26,8 @@
 
 1551A - https://codeforces.com/contest/1551/problem/A
 
+628A - https://codeforces.com/contest/628/problem/A
+
 
 
 
