@@ -28,6 +28,12 @@
 
 628A - https://codeforces.com/contest/628/problem/A
 
+349A - https://codeforces.com/problemset/problem/349/A
+
+753A - https://codeforces.com/problemset/problem/753/A
+
+
+
 
 
 
@@ -47,6 +53,10 @@
 363B - https://codeforces.com/contest/363/problem/B
 
 1547B (Round731 Div3) - https://codeforces.com/contest/1547/problem/B
+
+919B - https://codeforces.com/problemset/problem/919/B
+
+
 
 
 
