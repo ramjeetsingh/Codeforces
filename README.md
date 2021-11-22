@@ -34,6 +34,8 @@
 
 622A - https://codeforces.com/contest/622/problem/A
 
+1612A (EduRound117) - https://codeforces.com/contest/1612/problem/A
+
 
 
 
@@ -57,6 +59,8 @@
 1547B (Round731 Div3) - https://codeforces.com/contest/1547/problem/B
 
 919B - https://codeforces.com/problemset/problem/919/B
+
+1612B (EduRound117) - https://codeforces.com/contest/1612/problem/B
 
 
 
