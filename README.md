@@ -32,6 +32,8 @@
 
 753A - https://codeforces.com/problemset/problem/753/A
 
+622A - https://codeforces.com/contest/622/problem/A
+
 
 
 
