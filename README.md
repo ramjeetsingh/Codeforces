@@ -36,6 +36,8 @@
 
 1612A (EduRound117) - https://codeforces.com/contest/1612/problem/A
 
+270A - https://codeforces.com/contest/270/problem/A
+
 
 
 
@@ -61,6 +63,10 @@
 919B - https://codeforces.com/problemset/problem/919/B
 
 1612B (EduRound117) - https://codeforces.com/contest/1612/problem/B
+
+1593B - https://codeforces.com/contest/1593/problem/B
+
+1342B - https://codeforces.com/contest/1342/problem/B
 
 
 
