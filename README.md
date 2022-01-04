@@ -38,6 +38,8 @@
 
 270A - https://codeforces.com/contest/270/problem/A
 
+1621A (Hello2022) - https://codeforces.com/contest/1621/problem/A
+
 
 
 
@@ -67,6 +69,8 @@
 1593B - https://codeforces.com/contest/1593/problem/B
 
 1342B - https://codeforces.com/contest/1342/problem/B
+
+1621B (Hello2022) - https://codeforces.com/contest/1621/problem/B
 
 
 
