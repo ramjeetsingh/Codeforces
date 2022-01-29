@@ -40,6 +40,9 @@
 
 1621A (Hello2022) - https://codeforces.com/contest/1621/problem/A
 
+831A - https://codeforces.com/contest/831/problem/A
+
+1332A - https://codeforces.com/contest/1332/problem/A
 
 
 
@@ -71,6 +74,8 @@
 1342B - https://codeforces.com/contest/1342/problem/B
 
 1621B (Hello2022) - https://codeforces.com/contest/1621/problem/B
+
+242B - https://codeforces.com/contest/242/problem/B
 
 
 
