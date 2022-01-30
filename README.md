@@ -93,5 +93,9 @@
 
 630C - https://codeforces.com/contest/630/problem/C
 
+1511C - https://codeforces.com/contest/1511/problem/C
+
+1472 - https://codeforces.com/contest/1472/problem/C
+
 
 
