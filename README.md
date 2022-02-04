@@ -46,6 +46,8 @@
 
 1633A (Edu 122) - https://codeforces.com/contest/1633/problem/A
 
+459A - https://codeforces.com/contest/459/problem/A
+
 
 
 
@@ -105,6 +107,12 @@
 1472 - https://codeforces.com/contest/1472/problem/C
 
 1633C (Edu 122) - https://codeforces.com/contest/1633/problem/C
+
+12C - https://codeforces.com/contest/12/problem/C
+
+977C - https://codeforces.com/contest/977/problem/C
+
+1343C - https://codeforces.com/contest/1343/problem/C
 
 
 
