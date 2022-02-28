@@ -48,6 +48,8 @@
 
 459A - https://codeforces.com/contest/459/problem/A
 
+495A - https://codeforces.com/contest/495/problem/A
+
 
 
 
