@@ -50,6 +50,8 @@
 
 495A - https://codeforces.com/contest/495/problem/A
 
+466A - https://codeforces.com/contest/466/problem/A
+
 
 
 
@@ -88,7 +90,7 @@
 
 1633B (Edu 122) - https://codeforces.com/contest/1633/problem/B
 
-
+1352B - https://codeforces.com/contest/1352/problem/B
 
 
 
