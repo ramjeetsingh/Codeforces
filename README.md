@@ -92,6 +92,8 @@
 
 1352B - https://codeforces.com/contest/1352/problem/B
 
+765B - https://codeforces.com/contest/765/problem/B
+
 
 
 
